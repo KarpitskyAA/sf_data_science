@@ -4,6 +4,6 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scienc
  
 ## Projects
  
- * [Project 0. Game: Guess the number]
-
-SF homework
+ * [Project 0. Game: Guess the number](https://github.com/KarpitskyAA/sf_data_science/tree/main/Game%20Guess%20the%20number)
+ * [Project 1. ...]()
+ * [Project 2. ...]()
