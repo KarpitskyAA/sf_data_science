@@ -7,7 +7,7 @@
 
 [3. Краткая информация о данных](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#"Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Этапы-работы-над-проектом)
 
 [5. Результаты](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Результаты)
 
