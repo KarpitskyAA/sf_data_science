@@ -2,7 +2,7 @@
 
 import numpy as np
 
-number = np.random.randint(1, 101) # загадываем число
+number = np.random.randint(1, 100) # загадываем число
 count = 0
 
 while True:
