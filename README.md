@@ -5,5 +5,5 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scienc
 ## Projects
  
  * [Project 0. Game: Guess the number](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number)
- * [Project 1. HeadHunter data analisis]()
+ * [Project 1. HeadHunter data analisis](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter)
  * [Project 2. ...]()

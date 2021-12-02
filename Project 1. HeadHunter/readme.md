@@ -1,17 +1,17 @@
 # Проект 1. HeadHunter data analysis
 
 ##  Оглавление
-[1. Описание проекта](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Описание-проекта)
+[1. Описание проекта](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Результаты)
+[5. Результаты](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Результаты)
 
-[6. Выводы](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Выводы)
+[6. Выводы](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Выводы)
 
 ###  Описание проекта
 Учебный проект анализа данных о резюме соискателей от HeadHunter
