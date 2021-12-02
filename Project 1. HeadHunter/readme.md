@@ -16,7 +16,7 @@
 ###  Описание проекта
 Учебный проект анализа данных о резюме соискателей от HeadHunter
 
-&#11014; [к оглавлению](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Оглавление)
+&#11014; [к оглавлению](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Оглавление)
 
 ### Какой кейс решаем
 Нужно написать код, который позволяет ответить на все вопросы заданий SF по проекту.  
@@ -44,4 +44,4 @@
 ### Выводы  
 В процессе выполнения работы удалось ответить на все вопросы заданий.  
 
-&#11014; [к оглавлению](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%200.%20Game%20Guess%20the%20number/readme.md#Оглавление)
+&#11014; [к оглавлению](https://github.com/KarpitskyAA/sf_data_science/tree/main/Project%201.%20HeadHunter/readme.md#Оглавление)
